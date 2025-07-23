@@ -21,7 +21,7 @@ This project includes CRUD features, statistics generation, CSV export, weekly r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/.....
+https://github.com/Abey-Ashebir/Waiting-List.git
 cd Tena_Mart
 ```
 
