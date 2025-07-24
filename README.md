@@ -1,6 +1,6 @@
 # 📝 TenaMart Waiting List API
 
-A secure and simple Laravel REST API to manage and analyze early user signups for **TenaMart**.  
+A secure and simple Laravel REST API to manage and analyze early user signups for **TinaMart**.  
 This project includes CRUD features, statistics generation, CSV export, weekly reports, and token-based authentication using Laravel Sanctum.
 
 ---
